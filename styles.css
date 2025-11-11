@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.выделение{
+color: aqua;
+font-weight: bold;
+}
+
+body{
+    background: rgb(55, 55, 55) ;
+    color: azure;
+}
+
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .Список{
+  font-weight: bold;
+  font-size: 22px;
+}
+  .done{
+    color: rgb(138, 0, 0);
+  }
+.flip_vert {
+    transform:scaleY(-1) ;
+}
